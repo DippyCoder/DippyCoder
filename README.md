@@ -18,17 +18,16 @@
 
 ---
 
-### 🚀 About Me
-I'm a developer specializing in **Java** and **C#**, with a heavy focus on the Minecraft modding ecosystem. I enjoy breaking down complex game mechanics and rebuilding them into efficient tools. When I'm not maintaining **GoonerClient**, I'm usually working on Minecraft server cores or tinkering with web tech.
+### About Me
+I'm a developer specializing in **Java** and **C#** I enjoy making games and PaperMC plugins. I'm currently working on **GoonerClient**, my Minecraft Client. I also run my own Minecraft Server, but thats still work in progress. And also yes, I vibecode (with Claude). 
 
-- 🛠️ **Currently working on:** Enhancing [GoonerClient](https://github.com/DippyCoder/GoonerClient) for the latest Fabric versions.
-- 🔭 **Expertise:** Minecraft Client/Server Development, C# Tooling, and Web Portfolios.
-- ⚡ **Fact:** I believe performance is a feature, not an afterthought.
-- 🌱 **Learning:** Deeper low-level memory management in C++ and advanced GLSL shaders.
+- **Currently working on:** [GoonerClient](https://github.com/DippyCoder/GoonerClient).
+- **My Minecraft Server:** [NovaBlocks](https://dsc.gg/NovaBlocks).
+- **I like:** Unity and Minecraft modding (with PaperMC-based plugins).
 
 ---
 
-### Tech Stack & Tools
+### I'm Using
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=java,cs,python,js,html,css,vscode,idea,github,figma,unity,maven,gradle" />
@@ -36,7 +35,7 @@ I'm a developer specializing in **Java** and **C#**, with a heavy focus on the M
 
 ---
 
-### 📈 GitHub Stats
+### GitHub Stats
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=DippyCoder&show_icons=true&theme=transparent&hide_border=true" alt="DippyCoder Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DippyCoder&layout=compact&theme=transparent&hide_border=true" alt="Top Langs" />
@@ -44,7 +43,7 @@ I'm a developer specializing in **Java** and **C#**, with a heavy focus on the M
 
 ---
 
-### 🤝 Connect with Me
+### Connect with Me
 <p align="center">
   <a href="https://dippycoder.vercel.app"><img src="https://img.shields.io/badge/dippycoder-000000?style=flat&logo=discord&logoColor=white" /></a>
 </p>
