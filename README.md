@@ -1,6 +1,6 @@
 <div align="center">
   
-  <img src="" width="100%" alt="DippyCoder Banner" />
+  <img src="./header.svg" width="100%" alt="DippyCoder Banner" />
 
   <h1>Hi, I'm DippyCoder </h1>
 
