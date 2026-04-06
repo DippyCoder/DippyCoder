@@ -35,15 +35,8 @@ I'm a developer specializing in **Java** and **C#** I enjoy making games and Pap
 
 ---
 
-### GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DippyCoder&show_icons=true&theme=transparent&hide_border=true" alt="DippyCoder Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DippyCoder&layout=compact&theme=transparent&hide_border=true" alt="Top Langs" />
-</div>
-
----
 
 ### Connect with Me
 <p align="center">
-  <a href="https://dippycoder.vercel.app"><img src="https://img.shields.io/badge/dippycoder-000000?style=flat&logo=discord&logoColor=white" /></a>
+  <a href="https://dippycoder.vercel.app"><img src="https://img.shields.io/badge/dippycoder-000000?style=flat&logo=discord&logoColor=white"></a>
 </p>
