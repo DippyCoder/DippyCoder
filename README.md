@@ -1,6 +1,6 @@
 <div align="center">
   
-  <img src="https://your-image-url.com/hero-banner.png" width="100%" alt="DippyCoder Banner" />
+  <img src="" width="100%" alt="DippyCoder Banner" />
 
   <h1>Hi, I'm DippyCoder </h1>
 
@@ -45,11 +45,6 @@ I'm a developer specializing in **Java** and **C#**, with a heavy focus on the M
 ---
 
 ### 🤝 Connect with Me
-<p align="left">
-  <a href="https://dippycoder.vercel.app"><img src="https://img.shields.io/badge/dippycoder.vercel.app-000000?style=flat&logo=vercel&logoColor=white" /></a>
-  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-DippyCoder-red?style=flat&logo=gmail" /></a>
+<p align="center">
+  <a href="https://dippycoder.vercel.app"><img src="https://img.shields.io/badge/dippycoder-000000?style=flat&logo=discord&logoColor=white" /></a>
 </p>
-
-<div align="center">
-  <img src="https://your-image-url.com/footer-divider.png" width="100%" />
-</div>
