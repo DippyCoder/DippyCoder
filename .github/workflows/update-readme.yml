@@ -65,12 +65,18 @@ jobs:
           with open("README.md", "r") as f:
               content = f.read()
 
-          # Replace the "Currently working on:" line
-          new_line = f"- **Currently working on:** [{name}]({url})."
+          # Replace the bullet point format
           updated = re.sub(
               r"- \*\*Currently working on:\*\*.*",
-              new_line,
+              f"- **Currently working on:** [{name}]({url}).",
               content
+          )
+
+          # Replace the plain prose format in the about section
+          updated = re.sub(
+              r"I'm currently working on \*\*.*?\*\*",
+              f"I'm currently working on **[{name}]({url})**",
+              updated
           )
 
           if updated == content:
