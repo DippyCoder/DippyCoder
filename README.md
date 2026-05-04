@@ -19,9 +19,9 @@
 ---
 
 ### About Me
-I'm a developer specializing in **Java** and **C#** I enjoy making games and PaperMC plugins. I'm currently working on **[NovaEssentials](https://github.com/DippyCoder/NovaEssentials)**, my Minecraft Client. I also run my own Minecraft Server, but thats still work in progress. And also yes, I vibecode (with Claude). 
+I'm a developer specializing in **Java** and **C#** I enjoy making games and PaperMC plugins. I'm currently working on **[MCPanel](https://github.com/DippyCoder/MCPanel)**, my Minecraft Client. I also run my own Minecraft Server, but thats still work in progress. And also yes, I vibecode (with Claude). 
 
-- **Currently working on:** [NovaEssentials](https://github.com/DippyCoder/NovaEssentials).
+- **Currently working on:** [MCPanel](https://github.com/DippyCoder/MCPanel).
 - **My Minecraft Server:** [NovaBlocks](https://dsc.gg/NovaBlocks).
 - **I like:** Unity and Minecraft modding (with PaperMC-based plugins).
 
