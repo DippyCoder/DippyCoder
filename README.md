@@ -11,8 +11,8 @@
   </p>
 
   <p align="center">
-    <strong>Minecraft Modder | Java & C# Developer | Tooling Enthusiast</strong><br />
-    <em>Building performance-driven clients and utility-focused software.</em>
+    <strong>Minecraft Modder | Java & C# Developer | Vibecoder</strong><br />
+    <em>Building websites, Minecraft plugins and mods, creating apps</em>
   </p>
 </div>
 
