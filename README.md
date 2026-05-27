@@ -22,7 +22,7 @@
 I'm a developer specializing in **Java** and **C#** I enjoy making games and PaperMC plugins. I'm currently working on **[mcfetcher](https://github.com/DippyCoder/mcfetcher)**, my Minecraft Client. I also run my own Minecraft Server, but thats still work in progress. And also yes, I vibecode (with Claude). 
 
 - **Currently working on:** [mcfetcher](https://github.com/DippyCoder/mcfetcher).
-- **My Minecraft Server:** [NovaBlocks](https://dsc.gg/NovaBlocks).
+- **My Minecraft Server:** [VaultPVP](https://www.vaultpvp.net).
 - **I like:** Unity and Minecraft modding (with PaperMC-based plugins).
 
 ---
