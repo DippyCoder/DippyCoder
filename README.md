@@ -19,7 +19,7 @@
 ---
 
 ### About Me
-I'm a developer specializing in **Java** and **C#** I enjoy making games and PaperMC plugins. I'm currently working on **[MCPanel-CLI](https://github.com/DippyCoder/MCPanel-CLI)**, my Minecraft Client. I also run my own Minecraft Server, but thats still work in progress. And also yes, I vibecode (with Claude). 
+I'm a developer specializing in **Java** and **C#** I enjoy making games and PaperMC plugins. I'm currently working on **[MCPanel-CLI](https://github.com/DippyCoder/MCPanel-CLI)** I also run my own Minecraft Server, but thats still work in progress. And also yes, I vibecode (with Claude). 
 
 - **Currently working on:** [MCPanel-CLI](https://github.com/DippyCoder/MCPanel-CLI).
 - **My Minecraft Server:** [VaultPVP](https://www.vaultpvp.net).
