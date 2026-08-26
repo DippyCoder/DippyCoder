@@ -11,7 +11,7 @@
   </p>
 
   <p align="center">
-    <strong>Minecraft Modder | Java & C# Developer | Vibecoder</strong><br />
+    <strong>Minecraft Modder | Java & C# Developer</strong><br />
     <em>Building websites, Minecraft plugins and mods, creating apps</em>
   </p>
 </div>
@@ -19,7 +19,7 @@
 ---
 
 ### About Me
-I'm a developer specializing in **Java** and **C#** I enjoy making games and PaperMC plugins. I'm currently working on **[MCPanel-CLI](https://github.com/DippyCoder/MCPanel-CLI)**. I also run my own Minecraft Server, but thats still work in progress. And also yes, I vibecode (with Claude). 
+I'm a developer specializing in **Java** and **C#** I enjoy making games and PaperMC plugins. I'm currently working on **[MCPanel-CLI](https://github.com/DippyCoder/MCPanel-CLI)**. I also run my own Minecraft Server, but thats still work in progress.
 
 - **Currently working on:** [MCPanel-CLI](https://github.com/DippyCoder/MCPanel-CLI).
 - **My Minecraft Server:** [VaultPVP](https://www.vaultpvp.net).
