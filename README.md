@@ -19,9 +19,9 @@
 ---
 
 ### About Me
-I'm a developer specializing in **Java** and **C#** I enjoy making games and PaperMC plugins. I'm currently working on **[MCPanel-CLI](https://github.com/DippyCoder/MCPanel-CLI)**. I also run my own Minecraft Server, but thats still work in progress.
+I'm a developer specializing in **Java** and **C#** I enjoy making games and PaperMC plugins. I'm currently working on **[monotone](https://github.com/DippyCoder/monotone)**. I also run my own Minecraft Server, but thats still work in progress.
 
-- **Currently working on:** [MCPanel-CLI](https://github.com/DippyCoder/MCPanel-CLI).
+- **Currently working on:** [monotone](https://github.com/DippyCoder/monotone).
 - **My Minecraft Server:** [VaultPVP](https://www.vaultpvp.net).
 - **I like:** Unity and Minecraft modding (with PaperMC-based plugins).
 
